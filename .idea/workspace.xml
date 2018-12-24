@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="14b4ee05-9dac-4b95-923b-a0af1eeb3580" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/randomMonkey.py" afterPath="$PROJECT_DIR$/python/randomMonkey.py" />
+=======
+    <list default="true" id="9921fe8c-e0dd-4c56-9a7e-7080d84545af" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/palindrome.py" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python/palindrome_reverse.py" afterPath="" />
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,6 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+<<<<<<< HEAD
     <SUITE FILE_PATH="coverage/algorithms$Doctest_bubble_sort.coverage" NAME="Doctest bubble_sort Coverage Results" MODIFIED="1545604047751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
     <SUITE FILE_PATH="coverage/algorithms$randomMonkey.coverage" NAME="randomMonkey Coverage Results" MODIFIED="1545627028324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
   </component>
@@ -33,6 +40,20 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="512">
               <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+=======
+    <SUITE FILE_PATH="coverage/algorithms$Doctests_in_palindrome__1_.coverage" NAME="Doctests in palindrome (1) Coverage Results" MODIFIED="1502998234200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/algorithms$palindrome_reverse.coverage" NAME="palindrome_reverse Coverage Results" MODIFIED="1502990201968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+    <SUITE FILE_PATH="coverage/algorithms$Doctests_in_palindrome_reverse.coverage" NAME="Doctests in palindrome_reverse Coverage Results" MODIFIED="1502991416942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/python" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="palindrome.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/python/palindrome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
               <folding />
             </state>
           </provider>
@@ -40,6 +61,7 @@
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -47,14 +69,21 @@
       </list>
     </option>
   </component>
+=======
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/python/bubble_sort.py" />
         <option value="$PROJECT_DIR$/python/randomMonkey.py" />
+=======
+        <option value="$PROJECT_DIR$/python/palindrome_reverse.py" />
+        <option value="$PROJECT_DIR$/python/palindrome.py" />
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
       </list>
     </option>
   </component>
@@ -65,10 +94,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
+<<<<<<< HEAD
     <option name="x" value="-2891" />
     <option name="y" value="-11" />
     <option name="width" value="2902" />
     <option name="height" value="1582" />
+=======
+    <option name="x" value="1592" />
+    <option name="y" value="-8" />
+    <option name="width" value="2576" />
+    <option name="height" value="1056" />
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -86,7 +122,10 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+<<<<<<< HEAD
       <pane id="Scratches" />
+=======
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -103,6 +142,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+<<<<<<< HEAD
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="algorithms" />
@@ -119,6 +159,14 @@
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+=======
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -134,11 +182,21 @@
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Python.randomMonkey">
     <configuration default="false" name="Doctest bubble_sort" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs />
+=======
+  <component name="RunManager" selected="Python tests.Doctests in palindrome (1)">
+    <configuration default="false" name="palindrome_reverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -146,6 +204,7 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="algorithms" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/bubble_sort.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="bubble_sort" />
@@ -161,6 +220,18 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
+=======
+      <option name="SCRIPT_NAME" value="C:\repo\algorithms\python\palindrome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Doctests in palindrome (1)" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -168,10 +239,20 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="algorithms" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+<<<<<<< HEAD
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/randomMonkey.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
+=======
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/palindrome.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
       <method />
     </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
@@ -271,12 +352,15 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+<<<<<<< HEAD
       <node-interpreter>project</node-interpreter>
       <node-options />
       <gulpfile />
       <tasks />
       <arguments />
       <envs />
+=======
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -322,6 +406,7 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method />
     </configuration>
+<<<<<<< HEAD
     <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Doctest bubble_sort" />
       <item index="1" class="java.lang.String" itemvalue="Python.randomMonkey" />
@@ -330,6 +415,37 @@
       <list size="2">
         <item index="0" class="java.lang.String" itemvalue="Python.randomMonkey" />
         <item index="1" class="java.lang.String" itemvalue="Python tests.Doctest bubble_sort" />
+=======
+    <configuration default="false" name="Doctests in palindrome" type="tests" factoryName="Doctests" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="algorithms" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\repo\algorithms\python\palindrome.py" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Doctests in palindrome" />
+      <item index="1" class="java.lang.String" itemvalue="Python.palindrome_reverse" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Doctests in palindrome (1)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Doctests in palindrome (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Python.palindrome_reverse" />
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
       </list>
     </recent_temporary>
   </component>
@@ -338,15 +454,24 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="14b4ee05-9dac-4b95-923b-a0af1eeb3580" name="Default" comment="" />
       <created>1505076936669</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1505076936669</updated>
+=======
+      <changelist id="9921fe8c-e0dd-4c56-9a7e-7080d84545af" name="Default" comment="" />
+      <created>1502989293039</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502989293039</updated>
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
     </task>
     <servers />
   </component>
   <component name="TestHistory">
+<<<<<<< HEAD
     <history-entry file="Doctest_bubble_sort - 2017.09.10 at 16h 09m 02s.xml">
       <configuration name="Doctest bubble_sort" configurationId="tests" />
     </history-entry>
@@ -394,6 +519,61 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+=======
+    <history-entry file="Doctests_in_palindrome_(1) - 2017.08.17 at 12h 38m 29s.xml">
+      <configuration name="Doctests in palindrome (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_palindrome_(1) - 2017.08.17 at 12h 44m 34s.xml">
+      <configuration name="Doctests in palindrome (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_palindrome_(1) - 2017.08.17 at 14h 28m 36s.xml">
+      <configuration name="Doctests in palindrome (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_palindrome_(1) - 2017.08.17 at 14h 30m 26s.xml">
+      <configuration name="Doctests in palindrome (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_palindrome_(1) - 2017.08.17 at 14h 30m 34s.xml">
+      <configuration name="Doctests in palindrome (1)" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_palindrome_reverse - 2017.08.17 at 12h 23m 38s.xml">
+      <configuration name="Doctests in palindrome_reverse" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_palindrome_reverse - 2017.08.17 at 12h 25m 49s.xml">
+      <configuration name="Doctests in palindrome_reverse" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_palindrome_reverse - 2017.08.17 at 12h 29m 08s.xml">
+      <configuration name="Doctests in palindrome_reverse" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_palindrome_reverse - 2017.08.17 at 12h 30m 45s.xml">
+      <configuration name="Doctests in palindrome_reverse" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_palindrome_reverse - 2017.08.17 at 12h 36m 57s.xml">
+      <configuration name="Doctests in palindrome_reverse" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1592" y="-8" width="2576" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24979919" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297362" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39928058" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -407,8 +587,13 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+<<<<<<< HEAD
           <url>file://$PROJECT_DIR$/python/bubble_sort.py</url>
           <line>28</line>
+=======
+          <url>file://$PROJECT_DIR$/python/palindrome.py</url>
+          <line>67</line>
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
@@ -417,6 +602,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/python/bubble_sort.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -437,6 +623,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="512">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+=======
+    <entry file="file://$PROJECT_DIR$/python/palindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="73" column="4" lean-forward="false" selection-start-line="73" selection-start-column="4" selection-end-line="73" selection-end-column="4" />
+>>>>>>> 66a35eb69f1ce0d6f0c716f8e2b78fa081e29948
           <folding />
         </state>
       </provider>
