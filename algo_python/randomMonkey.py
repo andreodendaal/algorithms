@@ -8,7 +8,7 @@ test quote - “methinks it is like a weasel”
 """
 
 def generate_string(length):
-    letters = string.ascii_lowercase + ' '
+    letters = "abcdefghijklmnopqrstuvwxyz "
     generated_string = ''.join(random.choice(letters) for i in range(length))
     return generated_string
 
@@ -33,7 +33,7 @@ def time_quotegenerator():
 
     SETUP_CODE = '''from __main__ import generate_shakespeare'''
 
-    TEST_CODE = '''generate_shakespeare("methinks ")'''
+    TEST_CODE = '''generate_shakespeare("me ")'''
 
     times = timeit.repeat(setup=SETUP_CODE,
                           stmt=TEST_CODE,
