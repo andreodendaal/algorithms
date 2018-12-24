@@ -29,11 +29,13 @@ def generate_shakespeare(quote):
 
 
 def time_quotegenerator():
-    """time the running of the generator"""
+    """time the running of the generator
+    test quote - “methinks it is like a weasel”
+    """
 
     SETUP_CODE = '''from __main__ import generate_shakespeare'''
 
-    TEST_CODE = '''generate_shakespeare("me ")'''
+    TEST_CODE = '''generate_shakespeare("methinks it is like a weasel")'''
 
     times = timeit.repeat(setup=SETUP_CODE,
                           stmt=TEST_CODE,
