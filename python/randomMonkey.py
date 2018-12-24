@@ -24,8 +24,8 @@ def generate_shakespeare(quote):
         if ctr % 1000000 == 0:
             print("At iteration {}, still running!".format(ctr))
 
-    print(generated_string)
-    return generated_string
+    print("String: {}, generated after {} attempts".format(generated_string, ctr))
+    return generated_string, ctr
 
 
 def time_quotegenerator():
